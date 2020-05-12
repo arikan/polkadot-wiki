@@ -154,6 +154,7 @@ v1:
 (9 / 18) * 1.6 = 0.8 -> nominator stake share
 v1 validator total reward: 0.4 + 0.8 = 1.2 DOTs
 v1 nominator reward: 0.8 DOTs
+Each v1 nominator receives: 0.8 / 9 = 0.0889 DOTs
 
 v2:
 (0.4 * 2) = 0.8 DOTs -> validator payment
@@ -162,6 +163,7 @@ v2:
 (6 / 9) * 1.2 = 0.8 -> nominator stake share
 v2 validator total reward: 0.8 + 0.4 = 1.2 DOTs
 v2 nominator reward: 0.8 DOTs
+Each v2 nominator receives: 0.8 / 6 = 0.1333 DOTs
 
 v3:
 (0.1 * 2) = 0.2 DOTs -> validator payment
@@ -170,6 +172,7 @@ v3:
 (4 / 8) * 1.8 = 0.9 -> nominator stake share
 v3 validator total reward: 0.2 + 0.9 DOTs = 1.1 DOTs
 v3 nominator reward: 0.9 DOTs
+Each v3 nominator receives: 0.9 / 4 = 0.225 DOTs
 
 v4:
 (0 * 2) = 0 DOTs -> validator payment
@@ -178,4 +181,5 @@ v4:
 (5 / 6) * 2 = 1.67 -> nominator stake share
 v4 validator total reward: 0 + 0.33 DOTs = 0.33 DOTs
 v4 nominator reward: 1.67 DOTs
+Each v4 nominator receives: 1.67 / 5 = 0.334 DOTs
 ```
